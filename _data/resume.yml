@@ -5,7 +5,7 @@ title: "简历标题"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "叶锦"
 jobtitle: "全栈开发、AI影视工程师" #可空不显示
-photo: ""C:\Users\25365\Pictures\42FF4865F445444A9D346F42496084CD.jpg"" #照片可空，不显示
+photo: "/assets/images/photo.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
@@ -57,7 +57,7 @@ main: #简历主要内容，
     detail: 在这个可以申请软著的系统开发过程中，我在团队中担任前端开发人员，并完美完成任务。
     sub: 前端开发人员
     
-    - title: 图书管理系统
+  - title: 图书管理系统
     duration: 2025年09月 - 2025年12月
     detail: 该系统由我独立完成，能够满足绝大多数图书馆的日常管理需求。
     sub: 独立完成
