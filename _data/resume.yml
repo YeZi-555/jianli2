@@ -35,6 +35,7 @@ main: #简历主要内容，
     items: #itmems 可以小块的方式显示
     - 前端开发
     - 小程序开发
+    - AI漫剧制作
 
 
 - type: experience
@@ -51,10 +52,15 @@ main: #简历主要内容，
 - type: projects
   name: Projects
   content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
+  - title: 智能教学辅助系统
+    duration: 2026年04月 - 2026年05月
+    detail: 在这个可以申请软著的系统开发过程中，我在团队中担任前端开发人员，并完美完成任务。
+    sub: 前端开发人员
+    
+    - title: 图书管理系统
+    duration: 2025年09月 - 2025年12月
+    detail: 该系统由我独立完成，能够满足绝大多数图书馆的日常管理需求。
+    sub: 独立完成
  
 
 #others 其他简略内容(列表)
@@ -62,18 +68,13 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '其他'
   content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
   - title: "兴趣:"
     items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-  - title: 列表
-    list:
-    - 第一项
-    - 第二项
+    - 宝可梦
+    - 电影
+    - 音乐
+    - 乒乓球
+
 #- type: 
 #  name: '其他'
 #  content: #选择需要的格式
